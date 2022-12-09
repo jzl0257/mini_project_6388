@@ -1,0 +1,10 @@
+[
+
+  {
+    "id": "petriViz",
+    "title": "petriViz",
+    "panel": "panels/petriViz/petriVizPanel",
+    "DEBUG_ONLY": false
+  }
+
+]
